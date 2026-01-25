@@ -1,15 +1,15 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import AboutTanitiView from '@/views/AboutTaniti'
-import ActivitiesView from '@/views/Activities.vue';
-import DiningView from '@/views/Dining';
-import DiningOptionView from '@/views/DiningOption';
-import GettingAroundView from '@/views/GettingAround';
-import HomeView from '@/views/Home';
-import LodgingOptionView from '@/views/LodgingOption';
-import PlacesToStayView from '@/views/PlacesToStay';
-import ThingsToDoView from '@/views/ThingsToDo';
-import TravelInfoView from '@/views/TravelInfo';
-import NotFoundView from '@/views/NotFound';
+import AboutTanitiView from '@/views/AboutTanitiView.vue';
+import ActivitiesView from '@/views/ActivitiesView.vue';
+import DiningView from '@/views/DiningView.vue';
+import DiningOptionView from '@/views/DiningOptionView.vue';
+import GettingAroundView from '@/views/GettingAroundView.vue';
+import HomeView from '@/views/HomeView.vue';
+import LodgingOptionView from '@/views/LodgingOptionView.vue';
+import PlacesToStayView from '@/views/PlacesToStayView.vue';
+import ThingsToDoView from '@/views/ThingsToDoView.vue';
+import TravelInfoView from '@/views/TravelInfoView.vue';
+import NotFoundView from '@/views/NotFoundView.vue';
 
 
 const router = createRouter({
