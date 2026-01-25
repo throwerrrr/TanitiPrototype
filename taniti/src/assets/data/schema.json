@@ -1,0 +1,71 @@
+{
+    "type": "array",
+    "description": "array of restaurants/grocery stores/activities/lodging",
+    "items": {
+        "type": "object",
+        "description": "restaurant/grocery store, activity, place to stay",
+        "properties": {
+            "id": {
+                "type": "string"
+            },
+            "name": {
+                "type": "string"
+            },
+            "price_range": {
+                "type": "string",
+                "enum": ["$", "$$", "$$$"]
+            },
+            "contact_phone": {
+                "type": "string"
+            },
+            "contact_email": {
+                "type": "string"
+            },
+            "business_hours": {
+                "type": "object",
+                "properties": {
+                    "M-F": {
+                        "type": "string"
+                    },
+                    "Sa-Su": {
+                        "type": "string"
+                    },
+                    "holidays": {
+                        "type": "object",
+                        "properties": {
+                            "christmas_eve": {
+                                "type": "string"
+                            },
+                            "christmas": {
+                                "type": "string"
+                            },
+                            "new_years_eve": {
+                                "type": "string"
+                            },
+                            "new_years": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            },
+            "distance_from_airport": {
+                "type": "string"
+            },
+            "distance_from_port": {
+                "type": "string"
+            },
+            "pictures": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "src": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

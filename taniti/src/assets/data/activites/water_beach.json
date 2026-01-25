@@ -1,0 +1,157 @@
+[
+    {
+      "id": "beach-001",
+      "name": "Yellow Leaf Bay Beach",
+      "category": "Beach",
+      "description": "White sandy beaches encircling Yellow Leaf Bay, perfect for swimming and sunbathing",
+      "contact_phone": "+1 (808) 555-0301",
+      "contact_email": "info@yellowleafbay.ti",
+      "business_hours": {
+        "M-F": "Sunrise - Sunset",
+        "Sa-Su": "Sunrise - Sunset",
+        "holidays": {
+          "christmas_eve": "Sunrise - Sunset",
+          "christmas": "Sunrise - Sunset",
+          "new_years_eve": "Sunrise - Sunset",
+          "new_years": "Sunrise - Sunset"
+        }
+      },
+      "distance_from_airport": "3.1 miles",
+      "distance_from_port": "2.4 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/2404370/pexels-photo-2404370.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/30267630/pexels-photo-30267630.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "beach-002",
+      "name": "Rocky Point Beach",
+      "category": "Beach",
+      "description": "Scenic rocky beach with tide pools and unique coastal formations",
+      "contact_phone": "+1 (808) 555-0302",
+      "contact_email": "rockypointbeach@taniti.ti",
+      "business_hours": {
+        "M-F": "Open 24 Hours",
+        "Sa-Su": "Open 24 Hours",
+        "holidays": {
+          "christmas_eve": "Open 24 Hours",
+          "christmas": "Open 24 Hours",
+          "new_years_eve": "Open 24 Hours",
+          "new_years": "Open 24 Hours"
+        }
+      },
+      "distance_from_airport": "7.2 miles",
+      "distance_from_port": "6.8 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/2404370/pexels-photo-2404370.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/30267630/pexels-photo-30267630.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "water-001",
+      "name": "Taniti Snorkel Adventures",
+      "category": "Snorkeling",
+      "description": "Guided snorkeling tours exploring Taniti's vibrant coral reefs and marine life",
+      "contact_phone": "+1 (808) 555-0303",
+      "contact_email": "bookings@tantisnorkel.ti",
+      "business_hours": {
+        "M-F": "7:00 AM - 5:00 PM",
+        "Sa-Su": "7:00 AM - 6:00 PM",
+        "holidays": {
+          "christmas_eve": "7:00 AM - 3:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "7:00 AM - 3:00 PM",
+          "new_years": "9:00 AM - 5:00 PM"
+        }
+      },
+      "distance_from_airport": "4.3 miles",
+      "distance_from_port": "0.8 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/30267630/pexels-photo-30267630.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/2404370/pexels-photo-2404370.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "water-002",
+      "name": "Captain Kai's Fishing Charters",
+      "category": "Fishing",
+      "description": "Private and group chartered fishing tours in Taniti's rich waters",
+      "contact_phone": "+1 (808) 555-0304",
+      "contact_email": "charter@captainkai.ti",
+      "business_hours": {
+        "M-F": "5:00 AM - 7:00 PM",
+        "Sa-Su": "5:00 AM - 7:00 PM",
+        "holidays": {
+          "christmas_eve": "5:00 AM - 2:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "5:00 AM - 2:00 PM",
+          "new_years": "7:00 AM - 5:00 PM"
+        }
+      },
+      "distance_from_airport": "4.9 miles",
+      "distance_from_port": "0.3 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/30267630/pexels-photo-30267630.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/2404370/pexels-photo-2404370.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "water-003",
+      "name": "Island Boat Tours",
+      "category": "Boat Tours",
+      "description": "Scenic boat tours around Taniti, showcasing the island's coastline and marine life",
+      "contact_phone": "+1 (808) 555-0305",
+      "contact_email": "tours@islandboats.ti",
+      "business_hours": {
+        "M-F": "8:00 AM - 6:00 PM",
+        "Sa-Su": "8:00 AM - 7:00 PM",
+        "holidays": {
+          "christmas_eve": "8:00 AM - 4:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "8:00 AM - 4:00 PM",
+          "new_years": "10:00 AM - 6:00 PM"
+        }
+      },
+      "distance_from_airport": "4.5 miles",
+      "distance_from_port": "0.2 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/2404370/pexels-photo-2404370.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/30267630/pexels-photo-30267630.jpeg"
+        }
+      ]
+    }
+  ]

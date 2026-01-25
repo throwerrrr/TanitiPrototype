@@ -1,0 +1,172 @@
+[
+    {
+      "id": "nature-001",
+      "name": "Taniti Volcano Viewing Point",
+      "category": "Volcano",
+      "description": "Safe viewing area for Taniti's active volcano with interpretive displays",
+      "contact_phone": "+1 (808) 555-0401",
+      "contact_email": "info@tanitivolcano.ti",
+      "business_hours": {
+        "M-F": "6:00 AM - 8:00 PM",
+        "Sa-Su": "6:00 AM - 8:00 PM",
+        "holidays": {
+          "christmas_eve": "6:00 AM - 6:00 PM",
+          "christmas": "6:00 AM - 6:00 PM",
+          "new_years_eve": "6:00 AM - 10:00 PM",
+          "new_years": "6:00 AM - 8:00 PM"
+        }
+      },
+      "distance_from_airport": "12.3 miles",
+      "distance_from_port": "11.7 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/2079/nature-forest-waterfall-jungle.jpg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/1076081/pexels-photo-1076081.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/6703700/pexels-photo-6703700.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/1486842/pexels-photo-1486842.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "nature-002",
+      "name": "Rainforest Canopy Zipline",
+      "category": "Zip-lining",
+      "description": "Thrilling zip-line adventure through Taniti's lush rainforest canopy",
+      "contact_phone": "+1 (808) 555-0402",
+      "contact_email": "adventure@rainforestzip.ti",
+      "business_hours": {
+        "M-F": "8:00 AM - 5:00 PM",
+        "Sa-Su": "7:00 AM - 6:00 PM",
+        "holidays": {
+          "christmas_eve": "8:00 AM - 3:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "8:00 AM - 3:00 PM",
+          "new_years": "9:00 AM - 5:00 PM"
+        }
+      },
+      "distance_from_airport": "8.6 miles",
+      "distance_from_port": "7.9 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/1076081/pexels-photo-1076081.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/6703700/pexels-photo-6703700.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/2079/nature-forest-waterfall-jungle.jpg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/1486842/pexels-photo-1486842.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "nature-003",
+      "name": "Rainforest Trail System",
+      "category": "Hiking",
+      "description": "Network of hiking trails through Taniti's tropical rainforest with waterfalls and wildlife",
+      "contact_phone": "+1 (808) 555-0403",
+      "contact_email": "trails@tanitiparks.ti",
+      "business_hours": {
+        "M-F": "Sunrise - Sunset",
+        "Sa-Su": "Sunrise - Sunset",
+        "holidays": {
+          "christmas_eve": "Sunrise - Sunset",
+          "christmas": "Sunrise - Sunset",
+          "new_years_eve": "Sunrise - Sunset",
+          "new_years": "Sunrise - Sunset"
+        }
+      },
+      "distance_from_airport": "9.2 miles",
+      "distance_from_port": "8.5 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/6703700/pexels-photo-6703700.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/2079/nature-forest-waterfall-jungle.jpg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/1486842/pexels-photo-1486842.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/1076081/pexels-photo-1076081.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "nature-004",
+      "name": "SkyView Helicopter Tours",
+      "category": "Helicopter Tours",
+      "description": "Aerial tours of Taniti featuring the volcano, rainforest, and coastal views",
+      "contact_phone": "+1 (808) 555-0404",
+      "contact_email": "fly@skyviewtaniti.ti",
+      "business_hours": {
+        "M-F": "7:00 AM - 6:00 PM",
+        "Sa-Su": "7:00 AM - 7:00 PM",
+        "holidays": {
+          "christmas_eve": "7:00 AM - 3:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "7:00 AM - 3:00 PM",
+          "new_years": "9:00 AM - 6:00 PM"
+        }
+      },
+      "distance_from_airport": "0.5 miles",
+      "distance_from_port": "3.8 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/1486842/pexels-photo-1486842.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/1076081/pexels-photo-1076081.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/2079/nature-forest-waterfall-jungle.jpg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/6703700/pexels-photo-6703700.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "nature-005",
+      "name": "Taniti Island Bus Tours",
+      "category": "Bus Tours",
+      "description": "Guided bus tours showcasing Taniti's natural beauty and cultural landmarks",
+      "contact_phone": "+1 (808) 555-0405",
+      "contact_email": "tours@tanitibus.ti",
+      "business_hours": {
+        "M-F": "8:00 AM - 6:00 PM",
+        "Sa-Su": "8:00 AM - 6:00 PM",
+        "holidays": {
+          "christmas_eve": "8:00 AM - 4:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "8:00 AM - 4:00 PM",
+          "new_years": "10:00 AM - 6:00 PM"
+        }
+      },
+      "distance_from_airport": "2.8 miles",
+      "distance_from_port": "2.1 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/2079/nature-forest-waterfall-jungle.jpg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/1486842/pexels-photo-1486842.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/1076081/pexels-photo-1076081.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/6703700/pexels-photo-6703700.jpeg"
+        }
+      ]
+    }
+  ]

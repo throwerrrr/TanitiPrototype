@@ -1,0 +1,387 @@
+[
+    {
+      "id": "lodging-001",
+      "name": "Taniti Paradise Resort & Spa",
+      "type": "Resort",
+      "rating": "4-Star",
+      "price_range": "$$$$",
+      "contact_phone": "+1 (808) 555-0701",
+      "contact_email": "reservations@tanitiparadise.ti",
+      "business_hours": {
+        "M-F": "Front Desk Open 24 Hours",
+        "Sa-Su": "Front Desk Open 24 Hours",
+        "holidays": {
+          "christmas_eve": "Front Desk Open 24 Hours",
+          "christmas": "Front Desk Open 24 Hours",
+          "new_years_eve": "Front Desk Open 24 Hours",
+          "new_years": "Front Desk Open 24 Hours"
+        }
+      },
+      "distance_from_airport": "4.2 miles",
+      "distance_from_port": "3.5 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/5371573/pexels-photo-5371573.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/12391805/pexels-photo-12391805.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/30263905/pexels-photo-30263905.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/12387909/pexels-photo-12387909.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "lodging-002",
+      "name": "Yellow Leaf Bay Hotel",
+      "type": "Hotel",
+      "rating": "3-Star",
+      "price_range": "$$",
+      "contact_phone": "+1 (808) 555-0702",
+      "contact_email": "info@yellowleafhotel.ti",
+      "business_hours": {
+        "M-F": "Front Desk: 6:00 AM - 11:00 PM",
+        "Sa-Su": "Front Desk: 6:00 AM - 11:00 PM",
+        "holidays": {
+          "christmas_eve": "Front Desk: 6:00 AM - 11:00 PM",
+          "christmas": "Front Desk: 7:00 AM - 10:00 PM",
+          "new_years_eve": "Front Desk: 6:00 AM - 12:00 AM",
+          "new_years": "Front Desk: 7:00 AM - 11:00 PM"
+        }
+      },
+      "distance_from_airport": "3.1 miles",
+      "distance_from_port": "2.4 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/12391805/pexels-photo-12391805.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/30263905/pexels-photo-30263905.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/5371573/pexels-photo-5371573.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/12387909/pexels-photo-12387909.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "lodging-003",
+      "name": "Harbor View Inn",
+      "type": "Hotel",
+      "rating": "2-Star",
+      "price_range": "$",
+      "contact_phone": "+1 (808) 555-0703",
+      "contact_email": "bookings@harborviewinn.ti",
+      "business_hours": {
+        "M-F": "Front Desk: 7:00 AM - 10:00 PM",
+        "Sa-Su": "Front Desk: 7:00 AM - 10:00 PM",
+        "holidays": {
+          "christmas_eve": "Front Desk: 7:00 AM - 8:00 PM",
+          "christmas": "Front Desk: 8:00 AM - 8:00 PM",
+          "new_years_eve": "Front Desk: 7:00 AM - 11:00 PM",
+          "new_years": "Front Desk: 8:00 AM - 10:00 PM"
+        }
+      },
+      "distance_from_airport": "4.8 miles",
+      "distance_from_port": "0.6 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/30263905/pexels-photo-30263905.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/12387909/pexels-photo-12387909.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/5371573/pexels-photo-5371573.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/12391805/pexels-photo-12391805.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "lodging-004",
+      "name": "Volcano Vista Hotel",
+      "type": "Hotel",
+      "rating": "3-Star",
+      "price_range": "$$",
+      "contact_phone": "+1 (808) 555-0704",
+      "contact_email": "stay@volcanovista.ti",
+      "business_hours": {
+        "M-F": "Front Desk: 6:00 AM - 11:00 PM",
+        "Sa-Su": "Front Desk: 6:00 AM - 11:00 PM",
+        "holidays": {
+          "christmas_eve": "Front Desk: 6:00 AM - 10:00 PM",
+          "christmas": "Front Desk: 7:00 AM - 9:00 PM",
+          "new_years_eve": "Front Desk: 6:00 AM - 12:00 AM",
+          "new_years": "Front Desk: 7:00 AM - 11:00 PM"
+        }
+      },
+      "distance_from_airport": "8.3 miles",
+      "distance_from_port": "7.6 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/12387909/pexels-photo-12387909.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/5371573/pexels-photo-5371573.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/30263905/pexels-photo-30263905.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/12391805/pexels-photo-12391805.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "lodging-005",
+      "name": "Rainforest Retreat Hotel",
+      "type": "Hotel",
+      "rating": "3-Star",
+      "price_range": "$$",
+      "contact_phone": "+1 (808) 555-0705",
+      "contact_email": "reservations@rainforestretreat.ti",
+      "business_hours": {
+        "M-F": "Front Desk: 7:00 AM - 10:00 PM",
+        "Sa-Su": "Front Desk: 7:00 AM - 10:00 PM",
+        "holidays": {
+          "christmas_eve": "Front Desk: 7:00 AM - 9:00 PM",
+          "christmas": "Front Desk: 8:00 AM - 8:00 PM",
+          "new_years_eve": "Front Desk: 7:00 AM - 11:00 PM",
+          "new_years": "Front Desk: 8:00 AM - 10:00 PM"
+        }
+      },
+      "distance_from_airport": "9.1 miles",
+      "distance_from_port": "8.4 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/5371573/pexels-photo-5371573.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/12387909/pexels-photo-12387909.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/12391805/pexels-photo-12391805.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/30263905/pexels-photo-30263905.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "lodging-006",
+      "name": "Merriton Landing Inn",
+      "type": "Hotel",
+      "rating": "2-Star",
+      "price_range": "$",
+      "contact_phone": "+1 (808) 555-0706",
+      "contact_email": "front.desk@merritoninn.ti",
+      "business_hours": {
+        "M-F": "Front Desk: 7:00 AM - 10:00 PM",
+        "Sa-Su": "Front Desk: 7:00 AM - 10:00 PM",
+        "holidays": {
+          "christmas_eve": "Front Desk: 7:00 AM - 8:00 PM",
+          "christmas": "Front Desk: 8:00 AM - 8:00 PM",
+          "new_years_eve": "Front Desk: 7:00 AM - 11:00 PM",
+          "new_years": "Front Desk: 8:00 AM - 10:00 PM"
+        }
+      },
+      "distance_from_airport": "5.4 miles",
+      "distance_from_port": "1.2 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/12391805/pexels-photo-12391805.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/5371573/pexels-photo-5371573.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/12387909/pexels-photo-12387909.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/30263905/pexels-photo-30263905.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "lodging-007",
+      "name": "Ocean Breeze Bed & Breakfast",
+      "type": "Bed and Breakfast",
+      "rating": "3-Star",
+      "price_range": "$$",
+      "contact_phone": "+1 (808) 555-0707",
+      "contact_email": "hosts@oceanbreezebnb.ti",
+      "business_hours": {
+        "M-F": "Check-in: 3:00 PM - 8:00 PM",
+        "Sa-Su": "Check-in: 3:00 PM - 8:00 PM",
+        "holidays": {
+          "christmas_eve": "Check-in: 3:00 PM - 6:00 PM",
+          "christmas": "Check-in: 3:00 PM - 6:00 PM",
+          "new_years_eve": "Check-in: 3:00 PM - 8:00 PM",
+          "new_years": "Check-in: 3:00 PM - 7:00 PM"
+        }
+      },
+      "distance_from_airport": "2.7 miles",
+      "distance_from_port": "3.1 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/20106970/pexels-photo-20106970.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/6876832/pexels-photo-6876832.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/14465265/pexels-photo-14465265.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/26841859/pexels-photo-26841859.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "lodging-008",
+      "name": "Sunset Garden B&B",
+      "type": "Bed and Breakfast",
+      "rating": "3-Star",
+      "price_range": "$$",
+      "contact_phone": "+1 (808) 555-0708",
+      "contact_email": "info@sunsetgardenbnb.ti",
+      "business_hours": {
+        "M-F": "Check-in: 2:00 PM - 9:00 PM",
+        "Sa-Su": "Check-in: 2:00 PM - 9:00 PM",
+        "holidays": {
+          "christmas_eve": "Check-in: 2:00 PM - 6:00 PM",
+          "christmas": "Check-in: 3:00 PM - 6:00 PM",
+          "new_years_eve": "Check-in: 2:00 PM - 9:00 PM",
+          "new_years": "Check-in: 3:00 PM - 8:00 PM"
+        }
+      },
+      "distance_from_airport": "5.6 miles",
+      "distance_from_port": "4.9 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/6876832/pexels-photo-6876832.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/14465265/pexels-photo-14465265.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/20106970/pexels-photo-20106970.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/26841859/pexels-photo-26841859.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "lodging-009",
+      "name": "Mama Lani's Guesthouse",
+      "type": "Bed and Breakfast",
+      "rating": "2-Star",
+      "price_range": "$",
+      "contact_phone": "+1 (808) 555-0709",
+      "contact_email": "mamalani@guesthouse.ti",
+      "business_hours": {
+        "M-F": "Check-in: 3:00 PM - 8:00 PM",
+        "Sa-Su": "Check-in: 3:00 PM - 8:00 PM",
+        "holidays": {
+          "christmas_eve": "Check-in: 3:00 PM - 6:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "Check-in: 3:00 PM - 7:00 PM",
+          "new_years": "Check-in: 3:00 PM - 7:00 PM"
+        }
+      },
+      "distance_from_airport": "3.9 miles",
+      "distance_from_port": "3.2 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/14465265/pexels-photo-14465265.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/26841859/pexels-photo-26841859.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/20106970/pexels-photo-20106970.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/6876832/pexels-photo-6876832.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "lodging-010",
+      "name": "Palm Tree Cottage B&B",
+      "type": "Bed and Breakfast",
+      "rating": "3-Star",
+      "price_range": "$$",
+      "contact_phone": "+1 (808) 555-0710",
+      "contact_email": "stay@palmtreecottage.ti",
+      "business_hours": {
+        "M-F": "Check-in: 2:00 PM - 8:00 PM",
+        "Sa-Su": "Check-in: 2:00 PM - 8:00 PM",
+        "holidays": {
+          "christmas_eve": "Check-in: 2:00 PM - 6:00 PM",
+          "christmas": "Check-in: 3:00 PM - 6:00 PM",
+          "new_years_eve": "Check-in: 2:00 PM - 8:00 PM",
+          "new_years": "Check-in: 3:00 PM - 7:00 PM"
+        }
+      },
+      "distance_from_airport": "6.2 miles",
+      "distance_from_port": "5.5 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/26841859/pexels-photo-26841859.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/20106970/pexels-photo-20106970.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/6876832/pexels-photo-6876832.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/14465265/pexels-photo-14465265.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "lodging-011",
+      "name": "Island Wanderer Hostel",
+      "type": "Hostel",
+      "rating": "Budget",
+      "price_range": "$",
+      "contact_phone": "+1 (808) 555-0711",
+      "contact_email": "hello@islandwanderer.ti",
+      "business_hours": {
+        "M-F": "Front Desk: 8:00 AM - 10:00 PM",
+        "Sa-Su": "Front Desk: 8:00 AM - 10:00 PM",
+        "holidays": {
+          "christmas_eve": "Front Desk: 8:00 AM - 8:00 PM",
+          "christmas": "Front Desk: 9:00 AM - 8:00 PM",
+          "new_years_eve": "Front Desk: 8:00 AM - 11:00 PM",
+          "new_years": "Front Desk: 9:00 AM - 10:00 PM"
+        }
+      },
+      "distance_from_airport": "2.3 miles",
+      "distance_from_port": "1.9 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/7968273/pexels-photo-7968273.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/7969098/pexels-photo-7969098.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/4907201/pexels-photo-4907201.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/4907179/pexels-photo-4907179.jpeg"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,342 @@
+[
+    {
+      "id": "rest-001",
+      "name": "Volcano View Grill",
+      "cuisine_type": "Tanitian",
+      "price_range": "$$",
+      "contact_phone": "+1 (808) 555-0101",
+      "contact_email": "info@volcanoviewgrill.ti",
+      "business_hours": {
+        "M-F": "11:00 AM - 9:00 PM",
+        "Sa-Su": "10:00 AM - 10:00 PM",
+        "holidays": {
+          "christmas_eve": "10:00 AM - 6:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "10:00 AM - 11:00 PM",
+          "new_years": "12:00 PM - 9:00 PM"
+        }
+      },
+      "distance_from_airport": "3.2 miles",
+      "distance_from_port": "1.8 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/32568165/pexels-photo-32568165.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/32754756/pexels-photo-32754756.jpeg"
+        },
+        {
+          "src": "https://www.pexels.com/photo/kitchen-workers-having-fun-at-work-6937430/"
+        },
+        {
+          "src": "https://images.pexels.com/photos/19300593/pexels-photo-19300593.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "rest-002",
+      "name": "Harbor Fresh Seafood",
+      "cuisine_type": "Tanitian",
+      "price_range": "$$$",
+      "contact_phone": "+1 (808) 555-0102",
+      "contact_email": "reservations@harborfresh.ti",
+      "business_hours": {
+        "M-F": "12:00 PM - 10:00 PM",
+        "Sa-Su": "11:00 AM - 11:00 PM",
+        "holidays": {
+          "christmas_eve": "11:00 AM - 7:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "11:00 AM - 12:00 AM",
+          "new_years": "1:00 PM - 10:00 PM"
+        }
+      },
+      "distance_from_airport": "4.5 miles",
+      "distance_from_port": "0.3 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/32754756/pexels-photo-32754756.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/19300593/pexels-photo-19300593.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/32568165/pexels-photo-32568165.jpeg"
+        },
+        {
+          "src": "https://www.pexels.com/photo/kitchen-workers-having-fun-at-work-6937430/"
+        }
+      ]
+    },
+    {
+      "id": "rest-003",
+      "name": "Mama Lani's Kitchen",
+      "cuisine_type": "Tanitian",
+      "price_range": "$",
+      "contact_phone": "+1 (808) 555-0103",
+      "contact_email": "mamalani@taniti.ti",
+      "business_hours": {
+        "M-F": "7:00 AM - 8:00 PM",
+        "Sa-Su": "8:00 AM - 9:00 PM",
+        "holidays": {
+          "christmas_eve": "8:00 AM - 5:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "8:00 AM - 10:00 PM",
+          "new_years": "10:00 AM - 8:00 PM"
+        }
+      },
+      "distance_from_airport": "2.1 miles",
+      "distance_from_port": "2.7 miles",
+      "pictures": [
+        {         
+          "src": "https://www.pexels.com/photo/kitchen-workers-having-fun-at-work-6937430/"
+        },
+        {         
+          "src": "https://images.pexels.com/photos/32568165/pexels-photo-32568165.jpeg"
+        },
+        {         
+          "src": "https://images.pexels.com/photos/19300593/pexels-photo-19300593.jpeg"
+        },
+        {         
+          "src": "https://images.pexels.com/photos/32754756/pexels-photo-32754756.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "rest-004",
+      "name": "Rainforest Catch",
+      "cuisine_type": "Tanitian",
+      "price_range": "$$",
+      "contact_phone": "+1 (808) 555-0104",
+      "contact_email": "hello@rainforestcatch.ti",
+      "business_hours": {
+        "M-F": "11:30 AM - 9:30 PM",
+        "Sa-Su": "11:30 AM - 10:00 PM",
+        "holidays": {
+          "christmas_eve": "11:30 AM - 6:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "11:30 AM - 11:30 PM",
+          "new_years": "12:00 PM - 9:30 PM"
+        }
+      },
+      "distance_from_airport": "6.8 miles",
+      "distance_from_port": "5.2 miles",
+      "pictures": [
+        {          
+          "src": "https://images.pexels.com/photos/19300593/pexels-photo-19300593.jpeg"
+        },
+        {         
+          "src": "https://www.pexels.com/photo/kitchen-workers-having-fun-at-work-6937430/"
+        },
+        {          
+          "src": "https://images.pexels.com/photos/32754756/pexels-photo-32754756.jpeg"
+        },
+        {          
+          "src": "https://images.pexels.com/photos/32568165/pexels-photo-32568165.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "rest-005",
+      "name": "Kai's Beach Shack",
+      "cuisine_type": "Tanitian",
+      "price_range": "$",
+      "contact_phone": "+1 (808) 555-0105",
+      "contact_email": "kai@beachshack.ti",
+      "business_hours": {
+        "M-F": "10:00 AM - 7:00 PM",
+        "Sa-Su": "9:00 AM - 8:00 PM",
+        "holidays": {
+          "christmas_eve": "9:00 AM - 4:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "9:00 AM - 9:00 PM",
+          "new_years": "11:00 AM - 7:00 PM"
+        }
+      },
+      "distance_from_airport": "5.3 miles",
+      "distance_from_port": "4.1 miles",
+      "pictures": [
+        {          
+          "src": "https://images.pexels.com/photos/32568165/pexels-photo-32568165.jpeg"
+        },
+        {          
+          "src": "https://www.pexels.com/photo/kitchen-workers-having-fun-at-work-6937430/"
+        },
+        {         
+          "src": "https://images.pexels.com/photos/32754756/pexels-photo-32754756.jpeg"
+        },
+        {         
+          "src": "https://images.pexels.com/photos/19300593/pexels-photo-19300593.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "rest-006",
+      "name": "The Island Grill & Bar",
+      "cuisine_type": "American",
+      "price_range": "$$",
+      "contact_phone": "+1 (808) 555-0106",
+      "contact_email": "info@islandgrillbar.ti",
+      "business_hours": {
+        "M-F": "11:00 AM - 11:00 PM",
+        "Sa-Su": "10:00 AM - 12:00 AM",
+        "holidays": {
+          "christmas_eve": "11:00 AM - 8:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "11:00 AM - 1:00 AM",
+          "new_years": "12:00 PM - 11:00 PM"
+        }
+      },
+      "distance_from_airport": "1.9 miles",
+      "distance_from_port": "2.3 miles",
+      "pictures": [
+        {         
+          "src": "https://images.pexels.com/photos/32754756/pexels-photo-32754756.jpeg"
+        },
+        {         
+          "src": "https://images.pexels.com/photos/32568165/pexels-photo-32568165.jpeg"
+        },
+        {         
+          "src": "https://images.pexels.com/photos/19300593/pexels-photo-19300593.jpeg"
+        },
+        {         
+          "src": "https://www.pexels.com/photo/kitchen-workers-having-fun-at-work-6937430/"
+        }
+      ]
+    },
+    {
+      "id": "rest-007",
+      "name": "Paradise Burgers",
+      "cuisine_type": "American",
+      "price_range": "$",
+      "contact_phone": "+1 (808) 555-0107",
+      "contact_email": "orders@paradiseburgers.ti",
+      "business_hours": {
+        "M-F": "10:00 AM - 9:00 PM",
+        "Sa-Su": "10:00 AM - 10:00 PM",
+        "holidays": {
+          "christmas_eve": "10:00 AM - 6:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "10:00 AM - 10:00 PM",
+          "new_years": "11:00 AM - 9:00 PM"
+        }
+      },
+      "distance_from_airport": "2.8 miles",
+      "distance_from_port": "1.5 miles",
+      "pictures": [
+        {         
+          "src": "https://www.pexels.com/photo/kitchen-workers-having-fun-at-work-6937430/"
+        },
+        {         
+          "src": "https://images.pexels.com/photos/32754756/pexels-photo-32754756.jpeg"
+        },
+        {          
+          "src": "https://images.pexels.com/photos/32568165/pexels-photo-32568165.jpeg"
+        },
+        {         
+          "src": "https://images.pexels.com/photos/19300593/pexels-photo-19300593.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "rest-008",
+      "name": "Sunset Steakhouse",
+      "cuisine_type": "American",
+      "price_range": "$$$",
+      "contact_phone": "+1 (808) 555-0108",
+      "contact_email": "reservations@sunsetsteakhouse.ti",
+      "business_hours": {
+        "M-F": "5:00 PM - 10:00 PM",
+        "Sa-Su": "4:00 PM - 11:00 PM",
+        "holidays": {
+          "christmas_eve": "4:00 PM - 9:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "4:00 PM - 12:00 AM",
+          "new_years": "5:00 PM - 10:00 PM"
+        }
+      },
+      "distance_from_airport": "3.7 miles",
+      "distance_from_port": "2.9 miles",
+      "pictures": [
+        {         
+          "src": "https://images.pexels.com/photos/19300593/pexels-photo-19300593.jpeg"
+        },
+        {         
+          "src": "https://images.pexels.com/photos/32754756/pexels-photo-32754756.jpeg"
+        },
+        {         
+          "src": "https://www.pexels.com/photo/kitchen-workers-having-fun-at-work-6937430/"
+        },
+        {         
+          "src": "https://images.pexels.com/photos/32568165/pexels-photo-32568165.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "rest-009",
+      "name": "Bamboo Garden",
+      "cuisine_type": "Pan-Asian",
+      "price_range": "$$",
+      "contact_phone": "+1 (808) 555-0109",
+      "contact_email": "info@bamboogarden.ti",
+      "business_hours": {
+        "M-F": "11:30 AM - 9:30 PM",
+        "Sa-Su": "12:00 PM - 10:00 PM",
+        "holidays": {
+          "christmas_eve": "12:00 PM - 7:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "12:00 PM - 11:00 PM",
+          "new_years": "1:00 PM - 9:30 PM"
+        }
+      },
+      "distance_from_airport": "4.2 miles",
+      "distance_from_port": "3.4 miles",
+      "pictures": [
+        {         
+          "src": "https://images.pexels.com/photos/32568165/pexels-photo-32568165.jpeg"
+        },
+        {          
+          "src": "https://images.pexels.com/photos/19300593/pexels-photo-19300593.jpeg"
+        },
+        {
+          "src": "https://www.pexels.com/photo/kitchen-workers-having-fun-at-work-6937430/"
+        },
+        {
+          "src": "https://images.pexels.com/photos/32754756/pexels-photo-32754756.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "rest-010",
+      "name": "Dragon Wok Express",
+      "cuisine_type": "Pan-Asian",
+      "price_range": "$",
+      "contact_phone": "+1 (808) 555-0110",
+      "contact_email": "orders@dragonwok.ti",
+      "business_hours": {
+        "M-F": "11:00 AM - 9:00 PM",
+        "Sa-Su": "11:00 AM - 9:30 PM",
+        "holidays": {
+          "christmas_eve": "11:00 AM - 6:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "11:00 AM - 10:00 PM",
+          "new_years": "12:00 PM - 9:00 PM"
+        }
+      },
+      "distance_from_airport": "1.4 miles",
+      "distance_from_port": "2.1 miles",
+      "pictures": [
+        { 
+          "src": "https://images.pexels.com/photos/32754756/pexels-photo-32754756.jpeg"
+        },
+        {
+          "src": "https://www.pexels.com/photo/kitchen-workers-having-fun-at-work-6937430/"
+        },
+        {
+          "src": "https://images.pexels.com/photos/19300593/pexels-photo-19300593.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/32568165/pexels-photo-32568165.jpeg"
+        }
+      ]
+    }
+  ]

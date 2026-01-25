@@ -1,0 +1,126 @@
+[
+    {
+      "id": "culture-001",
+      "name": "Taniti History Museum",
+      "category": "Museum",
+      "description": "Museum showcasing Taniti's indigenous culture, history, and traditional artifacts",
+      "contact_phone": "+1 (808) 555-0501",
+      "contact_email": "info@tanitimuseum.ti",
+      "business_hours": {
+        "M-F": "9:00 AM - 6:00 PM",
+        "Sa-Su": "10:00 AM - 7:00 PM",
+        "holidays": {
+          "christmas_eve": "10:00 AM - 4:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "10:00 AM - 4:00 PM",
+          "new_years": "12:00 PM - 6:00 PM"
+        }
+      },
+      "distance_from_airport": "3.4 miles",
+      "distance_from_port": "2.7 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/11489976/pexels-photo-11489976.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/11156252/pexels-photo-11156252.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/2150304/pexels-photo-2150304.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "culture-002",
+      "name": "Yellow Leaf Gallery",
+      "category": "Art Gallery",
+      "description": "Contemporary art gallery featuring local and Pacific Island artists",
+      "contact_phone": "+1 (808) 555-0502",
+      "contact_email": "gallery@yellowleafart.ti",
+      "business_hours": {
+        "M-F": "10:00 AM - 7:00 PM",
+        "Sa-Su": "10:00 AM - 8:00 PM",
+        "holidays": {
+          "christmas_eve": "10:00 AM - 5:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "10:00 AM - 5:00 PM",
+          "new_years": "12:00 PM - 7:00 PM"
+        }
+      },
+      "distance_from_airport": "2.9 miles",
+      "distance_from_port": "2.2 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/11156252/pexels-photo-11156252.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/2150304/pexels-photo-2150304.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/11489976/pexels-photo-11489976.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "culture-003",
+      "name": "Merriton Arts Collective",
+      "category": "Art Gallery",
+      "description": "Multi-artist gallery and workshop space in Merriton Landing",
+      "contact_phone": "+1 (808) 555-0503",
+      "contact_email": "hello@merritonarts.ti",
+      "business_hours": {
+        "M-F": "11:00 AM - 6:00 PM",
+        "Sa-Su": "10:00 AM - 7:00 PM",
+        "holidays": {
+          "christmas_eve": "11:00 AM - 4:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "11:00 AM - 4:00 PM",
+          "new_years": "12:00 PM - 6:00 PM"
+        }
+      },
+      "distance_from_airport": "5.1 miles",
+      "distance_from_port": "1.4 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/2150304/pexels-photo-2150304.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/11489976/pexels-photo-11489976.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/11156252/pexels-photo-11156252.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "culture-004",
+      "name": "Taniti City Architecture Walk",
+      "category": "Cultural Tour",
+      "description": "Self-guided walking tour of Taniti City's native architecture and historic sites",
+      "contact_phone": "+1 (808) 555-0504",
+      "contact_email": "tours@tanititourism.ti",
+      "business_hours": {
+        "M-F": "Open 24 Hours",
+        "Sa-Su": "Open 24 Hours",
+        "holidays": {
+          "christmas_eve": "Open 24 Hours",
+          "christmas": "Open 24 Hours",
+          "new_years_eve": "Open 24 Hours",
+          "new_years": "Open 24 Hours"
+        }
+      },
+      "distance_from_airport": "3.2 miles",
+      "distance_from_port": "2.5 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/11489976/pexels-photo-11489976.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/2150304/pexels-photo-2150304.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/11156252/pexels-photo-11156252.jpeg"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,219 @@
+[
+    {
+      "id": "nightlife-001",
+      "name": "The Tiki Torch Pub",
+      "category": "Pub",
+      "description": "Traditional island pub with local atmosphere and live music on weekends",
+      "contact_phone": "+1 (808) 555-0601",
+      "contact_email": "info@tikitorch.ti",
+      "business_hours": {
+        "M-F": "4:00 PM - 12:00 AM",
+        "Sa-Su": "2:00 PM - 1:00 AM",
+        "holidays": {
+          "christmas_eve": "4:00 PM - 10:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "2:00 PM - 2:00 AM",
+          "new_years": "4:00 PM - 12:00 AM"
+        }
+      },
+      "distance_from_airport": "3.5 miles",
+      "distance_from_port": "2.8 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/9005505/pexels-photo-9005505.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/1872888/pexels-photo-1872888.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/15945596/pexels-photo-15945596.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "nightlife-002",
+      "name": "Volcano Brewing Company",
+      "category": "Microbrewery",
+      "description": "Craft microbrewery featuring locally-inspired beers and brewery tours",
+      "contact_phone": "+1 (808) 555-0602",
+      "contact_email": "cheers@volcanobrewing.ti",
+      "business_hours": {
+        "M-F": "3:00 PM - 11:00 PM",
+        "Sa-Su": "12:00 PM - 12:00 AM",
+        "holidays": {
+          "christmas_eve": "3:00 PM - 9:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "12:00 PM - 1:00 AM",
+          "new_years": "3:00 PM - 11:00 PM"
+        }
+      },
+      "distance_from_airport": "4.8 miles",
+      "distance_from_port": "1.6 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/1872888/pexels-photo-1872888.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/15945596/pexels-photo-15945596.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/9005505/pexels-photo-9005505.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "nightlife-003",
+      "name": "Harbor Lights Tavern",
+      "category": "Pub",
+      "description": "Waterfront pub with views of the harbor and local seafood menu",
+      "contact_phone": "+1 (808) 555-0603",
+      "contact_email": "reservations@harborlights.ti",
+      "business_hours": {
+        "M-F": "5:00 PM - 12:00 AM",
+        "Sa-Su": "3:00 PM - 1:00 AM",
+        "holidays": {
+          "christmas_eve": "5:00 PM - 10:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "3:00 PM - 2:00 AM",
+          "new_years": "5:00 PM - 12:00 AM"
+        }
+      },
+      "distance_from_airport": "4.6 miles",
+      "distance_from_port": "0.4 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/15945596/pexels-photo-15945596.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/9005505/pexels-photo-9005505.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/1872888/pexels-photo-1872888.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "nightlife-004",
+      "name": "Waves Dance Club",
+      "category": "Dance Club",
+      "description": "New modern dance club in Merriton Landing with DJ performances",
+      "contact_phone": "+1 (808) 555-0604",
+      "contact_email": "vip@wavesclub.ti",
+      "business_hours": {
+        "M-F": "9:00 PM - 3:00 AM",
+        "Sa-Su": "9:00 PM - 3:00 AM",
+        "holidays": {
+          "christmas_eve": "Closed",
+          "christmas": "Closed",
+          "new_years_eve": "9:00 PM - 4:00 AM",
+          "new_years": "9:00 PM - 3:00 AM"
+        }
+      },
+      "distance_from_airport": "5.3 miles",
+      "distance_from_port": "1.2 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/9005505/pexels-photo-9005505.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/15945596/pexels-photo-15945596.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/1872888/pexels-photo-1872888.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "entertainment-001",
+      "name": "Paradise Cinema",
+      "category": "Movie Theater",
+      "description": "Modern movie theater showing current releases and island film festivals",
+      "contact_phone": "+1 (808) 555-0605",
+      "contact_email": "tickets@paradisecinema.ti",
+      "business_hours": {
+        "M-F": "12:00 PM - 11:00 PM",
+        "Sa-Su": "10:00 AM - 12:00 AM",
+        "holidays": {
+          "christmas_eve": "12:00 PM - 8:00 PM",
+          "christmas": "2:00 PM - 11:00 PM",
+          "new_years_eve": "12:00 PM - 2:00 AM",
+          "new_years": "12:00 PM - 11:00 PM"
+        }
+      },
+      "distance_from_airport": "3.1 miles",
+      "distance_from_port": "2.4 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/1872888/pexels-photo-1872888.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/9005505/pexels-photo-9005505.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/15945596/pexels-photo-15945596.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "entertainment-002",
+      "name": "Merriton Arcade & Entertainment",
+      "category": "Arcade",
+      "description": "Family entertainment center with arcade games and attractions",
+      "contact_phone": "+1 (808) 555-0606",
+      "contact_email": "fun@merritonarcade.ti",
+      "business_hours": {
+        "M-F": "12:00 PM - 10:00 PM",
+        "Sa-Su": "10:00 AM - 11:00 PM",
+        "holidays": {
+          "christmas_eve": "10:00 AM - 6:00 PM",
+          "christmas": "12:00 PM - 8:00 PM",
+          "new_years_eve": "10:00 AM - 11:00 PM",
+          "new_years": "12:00 PM - 10:00 PM"
+        }
+      },
+      "distance_from_airport": "5.2 miles",
+      "distance_from_port": "1.3 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/15945596/pexels-photo-15945596.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/1872888/pexels-photo-1872888.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/9005505/pexels-photo-9005505.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "entertainment-003",
+      "name": "Strike Zone Bowling",
+      "category": "Bowling",
+      "description": "Modern bowling alley with food and beverage service",
+      "contact_phone": "+1 (808) 555-0607",
+      "contact_email": "lanes@strikezonetaniti.ti",
+      "business_hours": {
+        "M-F": "2:00 PM - 11:00 PM",
+        "Sa-Su": "10:00 AM - 12:00 AM",
+        "holidays": {
+          "christmas_eve": "2:00 PM - 8:00 PM",
+          "christmas": "2:00 PM - 10:00 PM",
+          "new_years_eve": "10:00 AM - 1:00 AM",
+          "new_years": "2:00 PM - 11:00 PM"
+        }
+      },
+      "distance_from_airport": "4.9 miles",
+      "distance_from_port": "1.7 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/9005505/pexels-photo-9005505.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/1872888/pexels-photo-1872888.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/15945596/pexels-photo-15945596.jpeg"
+        }
+      ]
+    }
+  ]

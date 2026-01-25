@@ -1,0 +1,167 @@
+[
+    {
+      "id": "grocery-001",
+      "name": "Taniti Fresh Market",
+      "type": "Supermarket",
+      "contact_phone": "+1 (808) 555-0201",
+      "contact_email": "info@tanitifresh.ti",
+      "business_hours": {
+        "M-F": "6:00 AM - 10:00 PM",
+        "Sa-Su": "7:00 AM - 10:00 PM",
+        "holidays": {
+          "christmas_eve": "7:00 AM - 6:00 PM",
+          "christmas": "9:00 AM - 5:00 PM",
+          "new_years_eve": "7:00 AM - 8:00 PM",
+          "new_years": "9:00 AM - 8:00 PM"
+        }
+      },
+      "distance_from_airport": "2.4 miles",
+      "distance_from_port": "1.9 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/12081286/pexels-photo-12081286.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/4124939/pexels-photo-4124939.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/8422673/pexels-photo-8422673.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/21582444/pexels-photo-21582444.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "grocery-002",
+      "name": "Island Superstore",
+      "type": "Supermarket",
+      "contact_phone": "+1 (808) 555-0202",
+      "contact_email": "contact@islandsuperstore.ti",
+      "business_hours": {
+        "M-F": "7:00 AM - 11:00 PM",
+        "Sa-Su": "7:00 AM - 11:00 PM",
+        "holidays": {
+          "christmas_eve": "7:00 AM - 7:00 PM",
+          "christmas": "10:00 AM - 6:00 PM",
+          "new_years_eve": "7:00 AM - 9:00 PM",
+          "new_years": "10:00 AM - 9:00 PM"
+        }
+      },
+      "distance_from_airport": "3.8 miles",
+      "distance_from_port": "3.2 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/4124939/pexels-photo-4124939.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/21582444/pexels-photo-21582444.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/12081286/pexels-photo-12081286.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/8422673/pexels-photo-8422673.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "grocery-003",
+      "name": "Harbor Provisions",
+      "type": "Grocery Store",
+      "contact_phone": "+1 (808) 555-0203",
+      "contact_email": "hello@harborprovisions.ti",
+      "business_hours": {
+        "M-F": "8:00 AM - 8:00 PM",
+        "Sa-Su": "8:00 AM - 7:00 PM",
+        "holidays": {
+          "christmas_eve": "8:00 AM - 5:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "8:00 AM - 6:00 PM",
+          "new_years": "10:00 AM - 6:00 PM"
+        }
+      },
+      "distance_from_airport": "4.7 miles",
+      "distance_from_port": "0.5 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/8422673/pexels-photo-8422673.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/12081286/pexels-photo-12081286.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/21582444/pexels-photo-21582444.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/4124939/pexels-photo-4124939.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "grocery-004",
+      "name": "Rainforest Grocer",
+      "type": "Grocery Store",
+      "contact_phone": "+1 (808) 555-0204",
+      "contact_email": "info@rainforestgrocer.ti",
+      "business_hours": {
+        "M-F": "7:00 AM - 9:00 PM",
+        "Sa-Su": "8:00 AM - 8:00 PM",
+        "holidays": {
+          "christmas_eve": "8:00 AM - 4:00 PM",
+          "christmas": "Closed",
+          "new_years_eve": "8:00 AM - 7:00 PM",
+          "new_years": "9:00 AM - 7:00 PM"
+        }
+      },
+      "distance_from_airport": "6.5 miles",
+      "distance_from_port": "5.8 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/21582444/pexels-photo-21582444.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/8422673/pexels-photo-8422673.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/4124939/pexels-photo-4124939.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/12081286/pexels-photo-12081286.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "grocery-005",
+      "name": "QuikStop 24/7",
+      "type": "Convenience Store",
+      "contact_phone": "+1 (808) 555-0205",
+      "contact_email": "support@quikstop.ti",
+      "business_hours": {
+        "M-F": "Open 24 Hours",
+        "Sa-Su": "Open 24 Hours",
+        "holidays": {
+          "christmas_eve": "Open 24 Hours",
+          "christmas": "Open 24 Hours",
+          "new_years_eve": "Open 24 Hours",
+          "new_years": "Open 24 Hours"
+        }
+      },
+      "distance_from_airport": "1.2 miles",
+      "distance_from_port": "2.5 miles",
+      "pictures": [
+        {
+          "src": "https://images.pexels.com/photos/12081286/pexels-photo-12081286.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/21582444/pexels-photo-21582444.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/4124939/pexels-photo-4124939.jpeg"
+        },
+        {
+          "src": "https://images.pexels.com/photos/8422673/pexels-photo-8422673.jpeg"
+        }
+      ]
+    }
+  ]
