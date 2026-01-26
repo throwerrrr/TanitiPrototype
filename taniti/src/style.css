@@ -1,1 +1,28 @@
 @import "tailwindcss";
+
+@utility pattern {
+    background-image: repeating-linear-gradient(
+        var(--pattern-deg),
+        var(--pattern-color) 0,
+        var(--pattern-color) 0.1px,
+        transparent 0,
+        transparent 50%
+    );
+    background-size: var(--pattern-size) var(--pattern-size);
+    background-attachment: fixed;
+}
+
+@utility pattern-* {
+    --pattern-color: --value(--color-*);
+}
+
+@utility pattern-xs { --pattern-size: 2px; }
+@utility pattern-sm { --pattern-size: 4px; }
+@utility pattern-md { --pattern-size: 6px; }
+@utility pattern-lg { --pattern-size: 8px; }
+@utility pattern-xl { --pattern-size: 10px; }
+
+@utility pattern-45 { --pattern-deg: 45deg; }
+@utility pattern-neg45 { --pattern-deg: -45deg; }
+@utility pattern-90 { --pattern-deg: 90deg; }
+@utility pattern-180 { --pattern-deg: 180deg; }

@@ -24,7 +24,7 @@ const navItems = [
                 :to="item.to"
                 class="p-2 hover:text-gray-300"
                 >
-                {{item.label}}
+                {{ item.label }}
                 </RouterLink>
             </div>
         </div>
