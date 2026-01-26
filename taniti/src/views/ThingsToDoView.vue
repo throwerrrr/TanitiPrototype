@@ -34,7 +34,7 @@ const activityGroups = [
     image="https://images.pexels.com/photos/30267630/pexels-photo-30267630.jpeg"
     />
     <section>
-        <div class="grid grid-cols-1 py-20 px-30 gap-y-15 gap-x-10">
+        <div class="grid grid-cols-1 py-10 px-4 md:py-16 md:px-12 lg:py-20 lg:px-30 gap-y-8 md:gap-y-15 gap-x-10">
         <ImageCard 
             v-for="item in activityGroups"
             :image="item.img"

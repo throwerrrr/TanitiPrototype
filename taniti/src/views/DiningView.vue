@@ -8,11 +8,11 @@ import groceryData from '@/assets/data/dining/grocery_stores.json';
 <template>
 <Hero image="https://images.pexels.com/photos/32568165/pexels-photo-32568165.jpeg"/>
 
-<section class="px-20 py-10">
+<section class="px-4 py-6 md:px-12 md:py-8 lg:px-20 lg:py-10">
     <div>
         <h1 class="text-2xl font-light">Restaurants</h1>
         <div class="
-        border p-8 rounded-lg
+        border p-4 md:p-8 rounded-lg
         pattern pattern-slate-400 pattern-sm pattern-neg45
         grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
             <LabeledImageCard 
@@ -28,10 +28,10 @@ import groceryData from '@/assets/data/dining/grocery_stores.json';
     </div>
 </section>
 
-<section class="px-20 py-10">
+<section class="px-4 py-6 md:px-12 md:py-8 lg:px-20 lg:py-10">
     <div>
         <h1 class="text-2xl font-light">Grocery Stores</h1>
-        <div class="border p-8 rounded-lg pattern pattern-slate-400 pattern-sm pattern-neg45 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
+        <div class="border p-4 md:p-8 rounded-lg pattern pattern-slate-400 pattern-sm pattern-neg45 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
             <LabeledImageCard 
                 v-for="store in groceryData"
                 :key="store.id"

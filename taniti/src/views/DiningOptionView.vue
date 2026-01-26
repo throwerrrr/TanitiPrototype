@@ -25,7 +25,7 @@ watch(() => route.params.id, loadDining);
 <template>
     <div v-if="dinery">
         <Hero :image="dinery.pictures?.[0]?.src"/>
-        <section class="p-20 w-fit font-light text-slate-800">
+        <section class="p-4 md:p-12 lg:p-20 w-fit font-light text-slate-800">
             <h1 class="text-3xl">{{ dinery.name }}</h1>
             <div class="p-2">
                 <div class="flex flex-wrap items-center gap-2 mt-2 text-gray-600">
@@ -43,7 +43,7 @@ watch(() => route.params.id, loadDining);
                         <span>{{ dinery.contact_email }}</span>
                     </div>
                 </div>
-                <div class="mt-4 pt-4 border-t border-gray-200 flex text-sm text-gray-800 gap-4 justify-between">
+                <div class="mt-4 pt-4 border-t border-gray-200 flex flex-col sm:flex-row text-sm text-gray-800 gap-4 justify-between">
                     <div>
                         <h3 class="font-medium text-lg">Hours: </h3>
                         <p>Mon-Fri: {{ dinery.business_hours.m_f }}</p>

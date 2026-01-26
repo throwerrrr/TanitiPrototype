@@ -41,8 +41,8 @@ const tanitiDescription = "Taniti is a small, tropical island in the Pacific. Wh
 
 <template>
     <Hero :image="heroImg"/>
-    <div class="p-20 grid grid-cols-3 gap-4">
-        <section class="col-span-2 mr-15">
+    <div class="p-4 md:p-12 lg:p-20 grid grid-cols-1 lg:grid-cols-3 gap-4">
+        <section class="lg:col-span-2 lg:mr-15">
             <div>
                 <h1 class="text-3xl">About Taniti</h1>
                 <p class="py-4">{{ tanitiDescription }}</p>
@@ -55,7 +55,7 @@ const tanitiDescription = "Taniti is a small, tropical island in the Pacific. Wh
                 
             </div>
         </section>
-        <aside class="col-span-1 flex flex-wrap gap-2">
+        <aside class="lg:col-span-1 flex flex-wrap gap-2">
             <div 
                         v-for="(pic, index) in asideImages" 
                         :key="index"

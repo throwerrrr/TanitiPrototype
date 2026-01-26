@@ -37,7 +37,7 @@ const imageCards = [
         subtitle="Find your paradise on the small pacific island of Taniti."
         />
 
-    <div class="grid grid-cols-2 xs:grid-cols-1 py-20 px-30 gap-y-15 gap-x-10">
+    <div class="grid grid-cols-1 sm:grid-cols-2 py-10 px-4 md:py-16 md:px-12 lg:py-20 lg:px-30 gap-y-8 gap-x-6 md:gap-y-15 md:gap-x-10">
         <ImageCard 
             v-for="item in imageCards"
             :image="item.img"

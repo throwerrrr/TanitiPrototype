@@ -38,9 +38,9 @@ const faqs = [
 
 <template>
     <Hero image="https://images.pexels.com/photos/3155645/pexels-photo-3155645.jpeg"/>
-    <section class="p-20">
-        <h1 class="text-2xl py-8">Frequently Asked Questions</h1>
-        <div class="grid grid-cols-2">
+    <section class="p-4 md:p-12 lg:p-20">
+        <h1 class="text-2xl py-6 md:py-8">Frequently Asked Questions</h1>
+        <div class="grid grid-cols-1 md:grid-cols-2">
             <details v-for="faq in faqs" class="m-4 rounded-lg text-gray-800">
                 <summary class="bg-gray-300 rounded-lg p-8 font-medium text-md">{{ faq.question }}</summary>
                 <div class="p-4">
