@@ -10,12 +10,14 @@ const props = defineProps({
     },
     image: {
         type: String,
+        required: true
     },
     caption: {
         type: String,
         default: 'Image sourced from: pexels.com'
     }
 });
+
 </script>
 
 <template>
