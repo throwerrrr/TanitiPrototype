@@ -45,7 +45,7 @@ const navItems = [
             :to="item.to"
             :class="[
               isActiveLink(item.to)
-                ? 'bg-teal-800'
+                ? 'bg-teal-900'
                 : 'hover:bg-teal-900 hover:text-white',
               'text-white',
               'px-3',
@@ -123,7 +123,7 @@ const navItems = [
             @click="closeMobileMenu"
             :class="[
               isActiveLink(item.to)
-                ? 'bg-teal-800'
+                ? 'bg-teal-900'
                 : 'hover:bg-teal-900',
               'text-white',
               'block',
