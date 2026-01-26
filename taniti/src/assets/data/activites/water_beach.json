@@ -7,8 +7,8 @@
       "contact_phone": "+1 (808) 555-0301",
       "contact_email": "info@yellowleafbay.ti",
       "business_hours": {
-        "M-F": "Sunrise - Sunset",
-        "Sa-Su": "Sunrise - Sunset",
+        "m_f": "Sunrise - Sunset",
+        "sa_su": "Sunrise - Sunset",
         "holidays": {
           "christmas_eve": "Sunrise - Sunset",
           "christmas": "Sunrise - Sunset",
@@ -38,8 +38,8 @@
       "contact_phone": "+1 (808) 555-0302",
       "contact_email": "rockypointbeach@taniti.ti",
       "business_hours": {
-        "M-F": "Open 24 Hours",
-        "Sa-Su": "Open 24 Hours",
+        "m_f": "Open 24 Hours",
+        "sa_su": "Open 24 Hours",
         "holidays": {
           "christmas_eve": "Open 24 Hours",
           "christmas": "Open 24 Hours",
@@ -69,8 +69,8 @@
       "contact_phone": "+1 (808) 555-0303",
       "contact_email": "bookings@tantisnorkel.ti",
       "business_hours": {
-        "M-F": "7:00 AM - 5:00 PM",
-        "Sa-Su": "7:00 AM - 6:00 PM",
+        "m_f": "7:00 AM - 5:00 PM",
+        "sa_su": "7:00 AM - 6:00 PM",
         "holidays": {
           "christmas_eve": "7:00 AM - 3:00 PM",
           "christmas": "Closed",
@@ -100,8 +100,8 @@
       "contact_phone": "+1 (808) 555-0304",
       "contact_email": "charter@captainkai.ti",
       "business_hours": {
-        "M-F": "5:00 AM - 7:00 PM",
-        "Sa-Su": "5:00 AM - 7:00 PM",
+        "m_f": "5:00 AM - 7:00 PM",
+        "sa_su": "5:00 AM - 7:00 PM",
         "holidays": {
           "christmas_eve": "5:00 AM - 2:00 PM",
           "christmas": "Closed",
@@ -131,8 +131,8 @@
       "contact_phone": "+1 (808) 555-0305",
       "contact_email": "tours@islandboats.ti",
       "business_hours": {
-        "M-F": "8:00 AM - 6:00 PM",
-        "Sa-Su": "8:00 AM - 7:00 PM",
+        "m_f": "8:00 AM - 6:00 PM",
+        "sa_su": "8:00 AM - 7:00 PM",
         "holidays": {
           "christmas_eve": "8:00 AM - 4:00 PM",
           "christmas": "Closed",

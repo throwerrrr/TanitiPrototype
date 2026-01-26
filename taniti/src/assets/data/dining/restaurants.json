@@ -7,8 +7,8 @@
       "contact_phone": "+1 (808) 555-0101",
       "contact_email": "info@volcanoviewgrill.ti",
       "business_hours": {
-        "M-F": "11:00 AM - 9:00 PM",
-        "Sa-Su": "10:00 AM - 10:00 PM",
+        "m_f": "11:00 AM - 9:00 PM",
+        "sa_su": "10:00 AM - 10:00 PM",
         "holidays": {
           "christmas_eve": "10:00 AM - 6:00 PM",
           "christmas": "Closed",
@@ -41,8 +41,8 @@
       "contact_phone": "+1 (808) 555-0102",
       "contact_email": "reservations@harborfresh.ti",
       "business_hours": {
-        "M-F": "12:00 PM - 10:00 PM",
-        "Sa-Su": "11:00 AM - 11:00 PM",
+        "m_f": "12:00 PM - 10:00 PM",
+        "sa_su": "11:00 AM - 11:00 PM",
         "holidays": {
           "christmas_eve": "11:00 AM - 7:00 PM",
           "christmas": "Closed",
@@ -75,8 +75,8 @@
       "contact_phone": "+1 (808) 555-0103",
       "contact_email": "mamalani@taniti.ti",
       "business_hours": {
-        "M-F": "7:00 AM - 8:00 PM",
-        "Sa-Su": "8:00 AM - 9:00 PM",
+        "m_f": "7:00 AM - 8:00 PM",
+        "sa_su": "8:00 AM - 9:00 PM",
         "holidays": {
           "christmas_eve": "8:00 AM - 5:00 PM",
           "christmas": "Closed",
@@ -109,8 +109,8 @@
       "contact_phone": "+1 (808) 555-0104",
       "contact_email": "hello@rainforestcatch.ti",
       "business_hours": {
-        "M-F": "11:30 AM - 9:30 PM",
-        "Sa-Su": "11:30 AM - 10:00 PM",
+        "m_f": "11:30 AM - 9:30 PM",
+        "sa_su": "11:30 AM - 10:00 PM",
         "holidays": {
           "christmas_eve": "11:30 AM - 6:00 PM",
           "christmas": "Closed",
@@ -143,8 +143,8 @@
       "contact_phone": "+1 (808) 555-0105",
       "contact_email": "kai@beachshack.ti",
       "business_hours": {
-        "M-F": "10:00 AM - 7:00 PM",
-        "Sa-Su": "9:00 AM - 8:00 PM",
+        "m_f": "10:00 AM - 7:00 PM",
+        "sa_su": "9:00 AM - 8:00 PM",
         "holidays": {
           "christmas_eve": "9:00 AM - 4:00 PM",
           "christmas": "Closed",
@@ -177,8 +177,8 @@
       "contact_phone": "+1 (808) 555-0106",
       "contact_email": "info@islandgrillbar.ti",
       "business_hours": {
-        "M-F": "11:00 AM - 11:00 PM",
-        "Sa-Su": "10:00 AM - 12:00 AM",
+        "m_f": "11:00 AM - 11:00 PM",
+        "sa_su": "10:00 AM - 12:00 AM",
         "holidays": {
           "christmas_eve": "11:00 AM - 8:00 PM",
           "christmas": "Closed",
@@ -211,8 +211,8 @@
       "contact_phone": "+1 (808) 555-0107",
       "contact_email": "orders@paradiseburgers.ti",
       "business_hours": {
-        "M-F": "10:00 AM - 9:00 PM",
-        "Sa-Su": "10:00 AM - 10:00 PM",
+        "m_f": "10:00 AM - 9:00 PM",
+        "sa_su": "10:00 AM - 10:00 PM",
         "holidays": {
           "christmas_eve": "10:00 AM - 6:00 PM",
           "christmas": "Closed",
@@ -245,8 +245,8 @@
       "contact_phone": "+1 (808) 555-0108",
       "contact_email": "reservations@sunsetsteakhouse.ti",
       "business_hours": {
-        "M-F": "5:00 PM - 10:00 PM",
-        "Sa-Su": "4:00 PM - 11:00 PM",
+        "m_f": "5:00 PM - 10:00 PM",
+        "sa_su": "4:00 PM - 11:00 PM",
         "holidays": {
           "christmas_eve": "4:00 PM - 9:00 PM",
           "christmas": "Closed",
@@ -279,8 +279,8 @@
       "contact_phone": "+1 (808) 555-0109",
       "contact_email": "info@bamboogarden.ti",
       "business_hours": {
-        "M-F": "11:30 AM - 9:30 PM",
-        "Sa-Su": "12:00 PM - 10:00 PM",
+        "m_f": "11:30 AM - 9:30 PM",
+        "sa_su": "12:00 PM - 10:00 PM",
         "holidays": {
           "christmas_eve": "12:00 PM - 7:00 PM",
           "christmas": "Closed",
@@ -313,8 +313,8 @@
       "contact_phone": "+1 (808) 555-0110",
       "contact_email": "orders@dragonwok.ti",
       "business_hours": {
-        "M-F": "11:00 AM - 9:00 PM",
-        "Sa-Su": "11:00 AM - 9:30 PM",
+        "m_f": "11:00 AM - 9:00 PM",
+        "sa_su": "11:00 AM - 9:30 PM",
         "holidays": {
           "christmas_eve": "11:00 AM - 6:00 PM",
           "christmas": "Closed",

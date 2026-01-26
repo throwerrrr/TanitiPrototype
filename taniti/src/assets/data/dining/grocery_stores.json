@@ -6,8 +6,8 @@
       "contact_phone": "+1 (808) 555-0201",
       "contact_email": "info@tanitifresh.ti",
       "business_hours": {
-        "M-F": "6:00 AM - 10:00 PM",
-        "Sa-Su": "7:00 AM - 10:00 PM",
+        "m_f": "6:00 AM - 10:00 PM",
+        "sa_su": "7:00 AM - 10:00 PM",
         "holidays": {
           "christmas_eve": "7:00 AM - 6:00 PM",
           "christmas": "9:00 AM - 5:00 PM",
@@ -39,8 +39,8 @@
       "contact_phone": "+1 (808) 555-0202",
       "contact_email": "contact@islandsuperstore.ti",
       "business_hours": {
-        "M-F": "7:00 AM - 11:00 PM",
-        "Sa-Su": "7:00 AM - 11:00 PM",
+        "m_f": "7:00 AM - 11:00 PM",
+        "sa_su": "7:00 AM - 11:00 PM",
         "holidays": {
           "christmas_eve": "7:00 AM - 7:00 PM",
           "christmas": "10:00 AM - 6:00 PM",
@@ -72,8 +72,8 @@
       "contact_phone": "+1 (808) 555-0203",
       "contact_email": "hello@harborprovisions.ti",
       "business_hours": {
-        "M-F": "8:00 AM - 8:00 PM",
-        "Sa-Su": "8:00 AM - 7:00 PM",
+        "m_f": "8:00 AM - 8:00 PM",
+        "sa_su": "8:00 AM - 7:00 PM",
         "holidays": {
           "christmas_eve": "8:00 AM - 5:00 PM",
           "christmas": "Closed",
@@ -105,8 +105,8 @@
       "contact_phone": "+1 (808) 555-0204",
       "contact_email": "info@rainforestgrocer.ti",
       "business_hours": {
-        "M-F": "7:00 AM - 9:00 PM",
-        "Sa-Su": "8:00 AM - 8:00 PM",
+        "m_f": "7:00 AM - 9:00 PM",
+        "sa_su": "8:00 AM - 8:00 PM",
         "holidays": {
           "christmas_eve": "8:00 AM - 4:00 PM",
           "christmas": "Closed",
@@ -138,8 +138,8 @@
       "contact_phone": "+1 (808) 555-0205",
       "contact_email": "support@quikstop.ti",
       "business_hours": {
-        "M-F": "Open 24 Hours",
-        "Sa-Su": "Open 24 Hours",
+        "m_f": "Open 24 Hours",
+        "sa_su": "Open 24 Hours",
         "holidays": {
           "christmas_eve": "Open 24 Hours",
           "christmas": "Open 24 Hours",

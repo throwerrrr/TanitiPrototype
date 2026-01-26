@@ -7,8 +7,8 @@
       "contact_phone": "+1 (808) 555-0501",
       "contact_email": "info@tanitimuseum.ti",
       "business_hours": {
-        "M-F": "9:00 AM - 6:00 PM",
-        "Sa-Su": "10:00 AM - 7:00 PM",
+        "m_f": "9:00 AM - 6:00 PM",
+        "sa_su": "10:00 AM - 7:00 PM",
         "holidays": {
           "christmas_eve": "10:00 AM - 4:00 PM",
           "christmas": "Closed",
@@ -38,8 +38,8 @@
       "contact_phone": "+1 (808) 555-0502",
       "contact_email": "gallery@yellowleafart.ti",
       "business_hours": {
-        "M-F": "10:00 AM - 7:00 PM",
-        "Sa-Su": "10:00 AM - 8:00 PM",
+        "m_f": "10:00 AM - 7:00 PM",
+        "sa_su": "10:00 AM - 8:00 PM",
         "holidays": {
           "christmas_eve": "10:00 AM - 5:00 PM",
           "christmas": "Closed",
@@ -69,8 +69,8 @@
       "contact_phone": "+1 (808) 555-0503",
       "contact_email": "hello@merritonarts.ti",
       "business_hours": {
-        "M-F": "11:00 AM - 6:00 PM",
-        "Sa-Su": "10:00 AM - 7:00 PM",
+        "m_f": "11:00 AM - 6:00 PM",
+        "sa_su": "10:00 AM - 7:00 PM",
         "holidays": {
           "christmas_eve": "11:00 AM - 4:00 PM",
           "christmas": "Closed",
@@ -100,8 +100,8 @@
       "contact_phone": "+1 (808) 555-0504",
       "contact_email": "tours@tanititourism.ti",
       "business_hours": {
-        "M-F": "Open 24 Hours",
-        "Sa-Su": "Open 24 Hours",
+        "m_f": "Open 24 Hours",
+        "sa_su": "Open 24 Hours",
         "holidays": {
           "christmas_eve": "Open 24 Hours",
           "christmas": "Open 24 Hours",

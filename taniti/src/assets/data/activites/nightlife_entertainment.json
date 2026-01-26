@@ -7,8 +7,8 @@
       "contact_phone": "+1 (808) 555-0601",
       "contact_email": "info@tikitorch.ti",
       "business_hours": {
-        "M-F": "4:00 PM - 12:00 AM",
-        "Sa-Su": "2:00 PM - 1:00 AM",
+        "m_f": "4:00 PM - 12:00 AM",
+        "sa_su": "2:00 PM - 1:00 AM",
         "holidays": {
           "christmas_eve": "4:00 PM - 10:00 PM",
           "christmas": "Closed",
@@ -38,8 +38,8 @@
       "contact_phone": "+1 (808) 555-0602",
       "contact_email": "cheers@volcanobrewing.ti",
       "business_hours": {
-        "M-F": "3:00 PM - 11:00 PM",
-        "Sa-Su": "12:00 PM - 12:00 AM",
+        "m_f": "3:00 PM - 11:00 PM",
+        "sa_su": "12:00 PM - 12:00 AM",
         "holidays": {
           "christmas_eve": "3:00 PM - 9:00 PM",
           "christmas": "Closed",
@@ -69,8 +69,8 @@
       "contact_phone": "+1 (808) 555-0603",
       "contact_email": "reservations@harborlights.ti",
       "business_hours": {
-        "M-F": "5:00 PM - 12:00 AM",
-        "Sa-Su": "3:00 PM - 1:00 AM",
+        "m_f": "5:00 PM - 12:00 AM",
+        "sa_su": "3:00 PM - 1:00 AM",
         "holidays": {
           "christmas_eve": "5:00 PM - 10:00 PM",
           "christmas": "Closed",
@@ -100,8 +100,8 @@
       "contact_phone": "+1 (808) 555-0604",
       "contact_email": "vip@wavesclub.ti",
       "business_hours": {
-        "M-F": "9:00 PM - 3:00 AM",
-        "Sa-Su": "9:00 PM - 3:00 AM",
+        "m_f": "9:00 PM - 3:00 AM",
+        "sa_su": "9:00 PM - 3:00 AM",
         "holidays": {
           "christmas_eve": "Closed",
           "christmas": "Closed",
@@ -131,8 +131,8 @@
       "contact_phone": "+1 (808) 555-0605",
       "contact_email": "tickets@paradisecinema.ti",
       "business_hours": {
-        "M-F": "12:00 PM - 11:00 PM",
-        "Sa-Su": "10:00 AM - 12:00 AM",
+        "m_f": "12:00 PM - 11:00 PM",
+        "sa_su": "10:00 AM - 12:00 AM",
         "holidays": {
           "christmas_eve": "12:00 PM - 8:00 PM",
           "christmas": "2:00 PM - 11:00 PM",
@@ -162,8 +162,8 @@
       "contact_phone": "+1 (808) 555-0606",
       "contact_email": "fun@merritonarcade.ti",
       "business_hours": {
-        "M-F": "12:00 PM - 10:00 PM",
-        "Sa-Su": "10:00 AM - 11:00 PM",
+        "m_f": "12:00 PM - 10:00 PM",
+        "sa_su": "10:00 AM - 11:00 PM",
         "holidays": {
           "christmas_eve": "10:00 AM - 6:00 PM",
           "christmas": "12:00 PM - 8:00 PM",
@@ -193,8 +193,8 @@
       "contact_phone": "+1 (808) 555-0607",
       "contact_email": "lanes@strikezonetaniti.ti",
       "business_hours": {
-        "M-F": "2:00 PM - 11:00 PM",
-        "Sa-Su": "10:00 AM - 12:00 AM",
+        "m_f": "2:00 PM - 11:00 PM",
+        "sa_su": "10:00 AM - 12:00 AM",
         "holidays": {
           "christmas_eve": "2:00 PM - 8:00 PM",
           "christmas": "2:00 PM - 10:00 PM",

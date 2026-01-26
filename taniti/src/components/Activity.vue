@@ -60,7 +60,6 @@ const mainImage = props.pictures?.[0]?.src || 'https://images.pexels.com/photos/
 
         
         <div class="p-5">
-        
             <h3 class="text-xl font-bold text-gray-900 mb-2">{{ props.name }}</h3>
             <p class="text-gray-600 text-sm mb-4 line-clamp-2">{{ props.description }}</p>
 
@@ -99,11 +98,11 @@ const mainImage = props.pictures?.[0]?.src || 'https://images.pexels.com/photos/
                     Hours
                 </h4>
                 <div class="flex flex-wrap gap-x-6 gap-y-1 text-sm text-gray-600">
-                    <p v-if="props.businessHours['M-F']">
-                        <span class="font-medium">Mon-Fri:</span> {{ props.businessHours['M-F'] }}
+                    <p v-if="props.businessHours.m_f">
+                        <span class="font-medium">Mon-Fri:</span> {{ props.businessHours['m_f'] }}
                     </p>
-                    <p v-if="props.businessHours['Sa-Su']">
-                        <span class="font-medium">Sat-Sun:</span> {{ props.businessHours['Sa-Su'] }}
+                    <p v-if="props.businessHours.sa_su">
+                        <span class="font-medium">Sat-Sun:</span> {{ props.businessHours['sa_su'] }}
                     </p>
                 </div>
             </div>

@@ -8,8 +8,8 @@
       "contact_phone": "+1 (808) 555-0701",
       "contact_email": "reservations@tanitiparadise.ti",
       "business_hours": {
-        "M-F": "Front Desk Open 24 Hours",
-        "Sa-Su": "Front Desk Open 24 Hours",
+        "m_f": "Front Desk Open 24 Hours",
+        "sa_su": "Front Desk Open 24 Hours",
         "holidays": {
           "christmas_eve": "Front Desk Open 24 Hours",
           "christmas": "Front Desk Open 24 Hours",
@@ -43,8 +43,8 @@
       "contact_phone": "+1 (808) 555-0702",
       "contact_email": "info@yellowleafhotel.ti",
       "business_hours": {
-        "M-F": "Front Desk: 6:00 AM - 11:00 PM",
-        "Sa-Su": "Front Desk: 6:00 AM - 11:00 PM",
+        "m_f": "Front Desk: 6:00 AM - 11:00 PM",
+        "sa_su": "Front Desk: 6:00 AM - 11:00 PM",
         "holidays": {
           "christmas_eve": "Front Desk: 6:00 AM - 11:00 PM",
           "christmas": "Front Desk: 7:00 AM - 10:00 PM",
@@ -78,8 +78,8 @@
       "contact_phone": "+1 (808) 555-0703",
       "contact_email": "bookings@harborviewinn.ti",
       "business_hours": {
-        "M-F": "Front Desk: 7:00 AM - 10:00 PM",
-        "Sa-Su": "Front Desk: 7:00 AM - 10:00 PM",
+        "m_f": "Front Desk: 7:00 AM - 10:00 PM",
+        "sa_su": "Front Desk: 7:00 AM - 10:00 PM",
         "holidays": {
           "christmas_eve": "Front Desk: 7:00 AM - 8:00 PM",
           "christmas": "Front Desk: 8:00 AM - 8:00 PM",
@@ -113,8 +113,8 @@
       "contact_phone": "+1 (808) 555-0704",
       "contact_email": "stay@volcanovista.ti",
       "business_hours": {
-        "M-F": "Front Desk: 6:00 AM - 11:00 PM",
-        "Sa-Su": "Front Desk: 6:00 AM - 11:00 PM",
+        "m_f": "Front Desk: 6:00 AM - 11:00 PM",
+        "sa_su": "Front Desk: 6:00 AM - 11:00 PM",
         "holidays": {
           "christmas_eve": "Front Desk: 6:00 AM - 10:00 PM",
           "christmas": "Front Desk: 7:00 AM - 9:00 PM",
@@ -148,8 +148,8 @@
       "contact_phone": "+1 (808) 555-0705",
       "contact_email": "reservations@rainforestretreat.ti",
       "business_hours": {
-        "M-F": "Front Desk: 7:00 AM - 10:00 PM",
-        "Sa-Su": "Front Desk: 7:00 AM - 10:00 PM",
+        "m_f": "Front Desk: 7:00 AM - 10:00 PM",
+        "sa_su": "Front Desk: 7:00 AM - 10:00 PM",
         "holidays": {
           "christmas_eve": "Front Desk: 7:00 AM - 9:00 PM",
           "christmas": "Front Desk: 8:00 AM - 8:00 PM",
@@ -183,8 +183,8 @@
       "contact_phone": "+1 (808) 555-0706",
       "contact_email": "front.desk@merritoninn.ti",
       "business_hours": {
-        "M-F": "Front Desk: 7:00 AM - 10:00 PM",
-        "Sa-Su": "Front Desk: 7:00 AM - 10:00 PM",
+        "m_f": "Front Desk: 7:00 AM - 10:00 PM",
+        "sa_su": "Front Desk: 7:00 AM - 10:00 PM",
         "holidays": {
           "christmas_eve": "Front Desk: 7:00 AM - 8:00 PM",
           "christmas": "Front Desk: 8:00 AM - 8:00 PM",
@@ -218,8 +218,8 @@
       "contact_phone": "+1 (808) 555-0707",
       "contact_email": "hosts@oceanbreezebnb.ti",
       "business_hours": {
-        "M-F": "Check-in: 3:00 PM - 8:00 PM",
-        "Sa-Su": "Check-in: 3:00 PM - 8:00 PM",
+        "m_f": "Check-in: 3:00 PM - 8:00 PM",
+        "sa_su": "Check-in: 3:00 PM - 8:00 PM",
         "holidays": {
           "christmas_eve": "Check-in: 3:00 PM - 6:00 PM",
           "christmas": "Check-in: 3:00 PM - 6:00 PM",
@@ -253,8 +253,8 @@
       "contact_phone": "+1 (808) 555-0708",
       "contact_email": "info@sunsetgardenbnb.ti",
       "business_hours": {
-        "M-F": "Check-in: 2:00 PM - 9:00 PM",
-        "Sa-Su": "Check-in: 2:00 PM - 9:00 PM",
+        "m_f": "Check-in: 2:00 PM - 9:00 PM",
+        "sa_su": "Check-in: 2:00 PM - 9:00 PM",
         "holidays": {
           "christmas_eve": "Check-in: 2:00 PM - 6:00 PM",
           "christmas": "Check-in: 3:00 PM - 6:00 PM",
@@ -288,8 +288,8 @@
       "contact_phone": "+1 (808) 555-0709",
       "contact_email": "mamalani@guesthouse.ti",
       "business_hours": {
-        "M-F": "Check-in: 3:00 PM - 8:00 PM",
-        "Sa-Su": "Check-in: 3:00 PM - 8:00 PM",
+        "m_f": "Check-in: 3:00 PM - 8:00 PM",
+        "sa_su": "Check-in: 3:00 PM - 8:00 PM",
         "holidays": {
           "christmas_eve": "Check-in: 3:00 PM - 6:00 PM",
           "christmas": "Closed",
@@ -323,8 +323,8 @@
       "contact_phone": "+1 (808) 555-0710",
       "contact_email": "stay@palmtreecottage.ti",
       "business_hours": {
-        "M-F": "Check-in: 2:00 PM - 8:00 PM",
-        "Sa-Su": "Check-in: 2:00 PM - 8:00 PM",
+        "m_f": "Check-in: 2:00 PM - 8:00 PM",
+        "sa_su": "Check-in: 2:00 PM - 8:00 PM",
         "holidays": {
           "christmas_eve": "Check-in: 2:00 PM - 6:00 PM",
           "christmas": "Check-in: 3:00 PM - 6:00 PM",
@@ -358,8 +358,8 @@
       "contact_phone": "+1 (808) 555-0711",
       "contact_email": "hello@islandwanderer.ti",
       "business_hours": {
-        "M-F": "Front Desk: 8:00 AM - 10:00 PM",
-        "Sa-Su": "Front Desk: 8:00 AM - 10:00 PM",
+        "m_f": "Front Desk: 8:00 AM - 10:00 PM",
+        "sa_su": "Front Desk: 8:00 AM - 10:00 PM",
         "holidays": {
           "christmas_eve": "Front Desk: 8:00 AM - 8:00 PM",
           "christmas": "Front Desk: 9:00 AM - 8:00 PM",

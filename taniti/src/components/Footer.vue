@@ -16,7 +16,7 @@ const navItems = [
     <section class="h-58 bg-gray-800">
         <div class="flex flex-wrap px-20 py-20 justify-between">
             <p class="text-white text-xs p-2">
-                ©2026 Taniti Island. All rights reserved
+                2026 Taniti Island. All pictures are sourced from <a href="https://www.pexels.com/" target="_blank" rel="noreferrer" class="hover:text-yellow-500 underline">Pexels</a>.
             </p>
             <div class="text-white text-xs py-2">
                 <RouterLink
