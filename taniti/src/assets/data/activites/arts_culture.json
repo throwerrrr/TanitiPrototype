@@ -16,6 +16,9 @@
           "new_years": "12:00 PM - 6:00 PM"
         }
       },
+      "schedule": "Guided tours at 10:00 AM, 1:00 PM, and 3:00 PM daily. Self-guided tours available anytime during business hours.",
+      "estimated_time_to_complete": "2 hours",
+      "family_friendly": true,
       "distance_from_airport": "3.4 miles",
       "distance_from_port": "2.7 miles",
       "pictures": [
@@ -47,6 +50,8 @@
           "new_years": "12:00 PM - 7:00 PM"
         }
       },
+      "estimated_time_to_complete": "2 hours",
+      "family_friendly": true,
       "distance_from_airport": "2.9 miles",
       "distance_from_port": "2.2 miles",
       "pictures": [
@@ -78,6 +83,9 @@
           "new_years": "12:00 PM - 6:00 PM"
         }
       },
+      "schedule": "Art workshops held Saturdays at 2:00 PM. Check website for current workshop schedule and registration.",
+      "estimated_time_to_complete": "1 hour",
+      "family_friendly": true,
       "distance_from_airport": "5.1 miles",
       "distance_from_port": "1.4 miles",
       "pictures": [
@@ -109,6 +117,8 @@
           "new_years": "Open 24 Hours"
         }
       },
+      "estimated_time_to_complete": "3-4 hours",
+      "family_friendly": true,
       "distance_from_airport": "3.2 miles",
       "distance_from_port": "2.5 miles",
       "pictures": [

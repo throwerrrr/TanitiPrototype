@@ -28,6 +28,18 @@ const props = defineProps({
         type: Object,
         default: () => ({})
     },
+    schedule: {
+        type: String,
+        default: ''
+    },
+    estimatedTimeToComplete: {
+        type: String,
+        default: ''
+    },
+    familyFriendly: {
+        type: Boolean,
+        default: null
+    },
     distanceFromAirport: {
         type: String,
         default: ''
@@ -53,15 +65,30 @@ const mainImage = props.pictures?.[0]?.src || 'https://images.pexels.com/photos/
                 :alt="props.name"
                 class="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
             />
-            <span class="absolute top-3 left-3 bg-emerald-600 text-white text-xs font-semibold px-3 py-1 rounded-full">
-                {{ props.category }}
-            </span>
+            <div class="absolute top-3 left-3 flex flex-wrap gap-2">
+                <span class="bg-emerald-600 text-white text-xs font-semibold px-3 py-1 rounded-full">
+                    {{ props.category }}
+                </span>
+                <span 
+                    v-if="props.familyFriendly !== null" 
+                    :class="props.familyFriendly ? 'bg-sky-500' : 'bg-amber-500'"
+                    class="text-white text-xs font-semibold px-3 py-1 rounded-full"
+                >
+                    {{ props.familyFriendly ? 'Family Friendly' : '21+' }}
+                </span>
+            </div>
         </div>
 
         
         <div class="p-5">
             <h3 class="text-xl font-bold text-gray-900 mb-2">{{ props.name }}</h3>
             <p class="text-gray-600 text-sm mb-4 line-clamp-2">{{ props.description }}</p>
+            
+            <div v-if="props.estimatedTimeToComplete && props.estimatedTimeToComplete !== 'N/A'" class="mb-4">
+                <span class="inline-flex items-center gap-1.5 text-sm text-gray-700 bg-gray-100 px-3 py-1.5 rounded-full">
+                    {{ props.estimatedTimeToComplete }}
+                </span>
+            </div>
 
         
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
@@ -105,6 +132,13 @@ const mainImage = props.pictures?.[0]?.src || 'https://images.pexels.com/photos/
                         <span class="font-medium">Sat-Sun:</span> {{ props.businessHours['sa_su'] }}
                     </p>
                 </div>
+            </div>
+
+            <div v-if="props.schedule" class="mt-4 pt-4 border-t border-gray-100">
+                <h4 class="font-semibold text-gray-800 flex items-center gap-2 mb-2">
+                    Schedule
+                </h4>
+                <p class="text-sm text-gray-600">{{ props.schedule }}</p>
             </div>
         </div>
     </article>

@@ -16,6 +16,8 @@
           "new_years": "Sunrise - Sunset"
         }
       },
+      "estimated_time_to_complete": "N/A",
+      "family_friendly": true,
       "distance_from_airport": "3.1 miles",
       "distance_from_port": "2.4 miles",
       "pictures": [
@@ -47,6 +49,8 @@
           "new_years": "Open 24 Hours"
         }
       },
+      "estimated_time_to_complete": "N/A",
+      "family_friendly": true,
       "distance_from_airport": "7.2 miles",
       "distance_from_port": "6.8 miles",
       "pictures": [
@@ -78,6 +82,9 @@
           "new_years": "9:00 AM - 5:00 PM"
         }
       },
+      "schedule": "Tours depart at 8:00 AM, 10:00 AM, 1:00 PM, and 3:00 PM daily. Reservations recommended.",
+      "estimated_time_to_complete": "2-3 hours",
+      "family_friendly": true,
       "distance_from_airport": "4.3 miles",
       "distance_from_port": "0.8 miles",
       "pictures": [
@@ -109,6 +116,9 @@
           "new_years": "7:00 AM - 5:00 PM"
         }
       },
+      "schedule": "Half-day charters depart at 6:00 AM and 12:00 PM. Full-day charters depart at 5:30 AM. Advance booking required.",
+      "estimated_time_to_complete": "4-8 hours",
+      "family_friendly": true,
       "distance_from_airport": "4.9 miles",
       "distance_from_port": "0.3 miles",
       "pictures": [
@@ -140,6 +150,9 @@
           "new_years": "10:00 AM - 6:00 PM"
         }
       },
+      "schedule": "Tours start at the top of every hour from 9:00 AM until 4:00 PM. Sunset cruise departs at 5:30 PM.",
+      "estimated_time_to_complete": "2-4 hours",
+      "family_friendly": true,
       "distance_from_airport": "4.5 miles",
       "distance_from_port": "0.2 miles",
       "pictures": [

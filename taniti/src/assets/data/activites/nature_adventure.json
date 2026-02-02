@@ -16,6 +16,8 @@
           "new_years": "6:00 AM - 8:00 PM"
         }
       },
+      "estimated_time_to_complete": "30 minutes",
+      "family_friendly": true,
       "distance_from_airport": "12.3 miles",
       "distance_from_port": "11.7 miles",
       "pictures": [
@@ -50,6 +52,9 @@
           "new_years": "9:00 AM - 5:00 PM"
         }
       },
+      "schedule": "Tours begin every 30 minutes from 8:00 AM until 3:00 PM. Last tour at 3:00 PM. Reservations recommended.",
+      "estimated_time_to_complete": "2 hours",
+      "family_friendly": true,
       "distance_from_airport": "8.6 miles",
       "distance_from_port": "7.9 miles",
       "pictures": [
@@ -84,6 +89,8 @@
           "new_years": "Sunrise - Sunset"
         }
       },
+      "estimated_time_to_complete": "30 minutes to 4 hours depending on trail.",
+      "family_friendly": true,
       "distance_from_airport": "9.2 miles",
       "distance_from_port": "8.5 miles",
       "pictures": [
@@ -118,6 +125,9 @@
           "new_years": "9:00 AM - 6:00 PM"
         }
       },
+      "schedule": "Flights depart at the top of every hour from 8:00 AM until 5:00 PM. Weather permitting. Advance booking required.",
+      "estimated_time_to_complete": "1-2 hours",
+      "family_friendly": false,
       "distance_from_airport": "0.5 miles",
       "distance_from_port": "3.8 miles",
       "pictures": [
@@ -152,6 +162,9 @@
           "new_years": "10:00 AM - 6:00 PM"
         }
       },
+      "schedule": "Full island tours depart at 9:00 AM and 1:00 PM daily. Half-day tours at 9:00 AM, 11:00 AM, and 2:00 PM.",
+      "estimated_time_to_complete": "3 hours",
+      "family_friendly": true,
       "distance_from_airport": "2.8 miles",
       "distance_from_port": "2.1 miles",
       "pictures": [
